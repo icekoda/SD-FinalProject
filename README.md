@@ -41,10 +41,10 @@ Expected artifacts are:
 This  portion  of  the  project  should  follow  the  ADD  design  process.  The  format  of  the  submission  should mimic the FCAPS case example in the text book [1]. All 3 iterations of the design process are expected and all 7 steps should be included. 
 
 ## Grading Scheme
-Proposal: 2 marks
-Progress Report: 3 marks
-Design Submission: 25 marks
-resentation: 5 marks
+- Proposal: 2 marks
+- Progress Report: 3 marks
+- Design Submission: 25 marks
+- Presentation: 5 marks
 
 ## Team Assessment
 As a requirement of the course there is a team assessment that should be completed. The purpose of this  team  evaluation  is  for  students  to  understand  the  dynamics  and  roles  of  a  team.  This  will  be  assessed using the ITP metrics tool and instructions will be posted in Canvas. 
