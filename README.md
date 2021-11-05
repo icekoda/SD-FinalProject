@@ -29,7 +29,7 @@ All deliverables should be uploaded to a GitHub repository that the instructor w
 ### Deliverable 1 – Project proposal (Due Oct 18)
 Project group members should submit a project proposal preferably of some software project they are familiar  with  such  as  one  they  have  already  worked  on  in  other  courses.  This  deliverable  should contain title of the project, list of group members, and a set of functional and non-requirements.  
 
-### Deliverable 2 – Project progress report (Due Nov. 4)
+### Deliverable 2 – Project progress report (Due Nov. 8)
 Prior to commencing the ADD process the use cases, quality attributes and constraint requirements of the project need to be defined based on the requirements that you submitted. The format of these submissions should follow closely the FCAPS case example in the text book [1].
 
 Expected artifacts are:
