@@ -1,6 +1,10 @@
 # Group 28 - Project Progress Report
 ## Business Case
-What we intend to do with this
+With many people going hungry every day, food waste is a growing problem in our society. According to a 2019 report;
+> In 2016, Canadians generated approximately 34 million tonnes of municipal solid waste.
+> \- *Environment and Climate Change Canada*
+
+Our goal is to make it easier to manage the food that you own, enabling you to purchase in bulk, and plan meals using software. In order to avoid food spoiling, we can use technology to help us organize our fridges, and freezers, allowing us to prepare meals based on shelf life.
 
 ## System Requirements
 ### Use Case Model
