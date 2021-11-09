@@ -15,7 +15,7 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 |Add / Remove Items| Administrator is able to add any items wanted to the list at hand. They are also able to remove any item wanted from the list.|
 |Updating Items|Able to update the state of each item. Letting the user know each item's condition. Updates all connected systems update files.|
 |Search Inventory|Able to search an item by name or condition throughout the whole plate form. Able to see where the item is located, condition of the item, how many there are. |
-|Items List and State|Able to see the list of items and the condition the items are in. For example food it will display if it is expired or not. And the list of food in storage| 
+|Items List and State|Able to see the list of items and the condition the items are in. User must be able to sort food items based on expiration date, and must appear on home screen when expiration is imminent, or ocurring| 
 
 ### Quality Attribute Scenarios
 | Attribute     | Description |
