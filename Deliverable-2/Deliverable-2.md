@@ -30,3 +30,4 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 ### Constraints
 1. The system must be able to run on hardware ranging in power, and monetary cost. Cheap in cost, and power. Should be able to run on a raspberry pi
 2. Must follow open source model, must allow user to implement into their own applications or hardware.
+3. Must be able to run with, or without networking.
