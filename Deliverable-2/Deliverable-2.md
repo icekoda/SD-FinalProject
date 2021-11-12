@@ -32,5 +32,5 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 2. Must follow open source model, must allow user to implement into their own applications or hardware.
 3. Must be able to run with, or without networking.
 
-### Concerns - *CNR*
+### Architectural Concerns - *CNR*
 1. Establish overall system structures.
