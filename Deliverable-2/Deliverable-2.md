@@ -12,22 +12,21 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 
 | Use Case    | Description |
 | ----------- | ----------- |
-|Add / Remove Items| Administrator is able to add any items wanted to the list at hand. They are also able to remove any item wanted from the list.|
-|Updating Items|Able to update the state of each item. Letting the user know each item's condition. Updates all connected systems update files.|
-|Search Inventory|Able to search an item by name or condition throughout the whole plate form. Able to see where the item is located, condition of the item, how many there are. |
-|Items List and State|Able to see the list of items and the condition the items are in. User must be able to sort food items based on expiration date, and must appear on home screen when expiration is imminent, or ocurring| 
+|UC-1 Add / Remove Items| Administrator is able to add any items wanted to the list at hand. They are also able to remove any item wanted from the list.|
+|UC-2 Updating Items|Able to update the state of each item. Letting the user know each item's condition. Updates all connected systems update files.|
+|UC-3 Search Inventory|Able to search an item by name or condition throughout the whole plate form. Able to see where the item is located, condition of the item, how many there are. |
+|UC-4 Items List and State|Able to see the list of items and the condition the items are in. User must be able to sort food items based on expiration date, and must appear on home screen when expiration is imminent, or ocurring| 
 
 ### Quality Attribute Scenarios
 | Attribute     | Description |
 | ----------- | ----------- |
-| Performance      | Must be fast,intuitive, must be able to access all options in 3 clicks or less.       |
-| Availability  | Must be available 24 hours of the day. If over the network updates occur, it must do it live, with minimal downtime      |
-| Reliability | Must be able to sync with other systems, and database |
-| Maintainability    | Must have organized code that can be easily modified and reusable        |
-| User Friendly    | Must be easy to understand, easily accessible, easy to follow         |
-| Interoperability    | Must be able to interface with other smart home systems, to be easily integrated into a larger smart device ecosystem.        |
-| Accessibility    | Must be able to be installed with ease for enthusiasts, whether it be a tablet or raspberry pi.        |
+| QA-1 Performance      | Must be fast,intuitive, must be able to access all options in 3 clicks or less.       |
+| QA-2 Availability  | Must be available 24 hours of the day. If over the network updates occur, it must do it live, with minimal downtime      |
+| QA-3 Reliability | Must be able to sync with other systems, and database |
+| QA-4 Maintainability    | Must have organized code that can be easily modified and reusable        |
+| QA-5 User Friendly    | Must be easy to understand, easily accessible, easy to follow         |
+| QA-6 Interoperability    | Must be able to interface with other smart home systems, to be easily integrated into a larger smart device ecosystem.        |
+| QA-7 Accessibility    | Must be able to be installed with ease for enthusiasts, whether it be a tablet or raspberry pi.        |
 ### Constraints
-1. System must be able to run 24/7, on standby, or low power mode when not immediately in use, but also be connected, ready to update lists
-2. The system must be able to run on cheap hardware. Cheap in cost, and power.
-3. System must be easily modifiable, and interoperable through it’s interfaces.
+1. The system must be able to run on hardware ranging in power, and monetary cost. Cheap in cost, and power. Should be able to run on a raspberry pi
+2. Must follow open source model, must allow user to implement into their own applications or hardware.
