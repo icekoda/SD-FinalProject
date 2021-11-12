@@ -27,7 +27,10 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 | QA-5 User Friendly    | Must be easy to understand, easily accessible, easy to follow         |
 | QA-6 Interoperability    | Must be able to interface with other smart home systems, to be easily integrated into a larger smart device ecosystem.        |
 | QA-7 Accessibility    | Must be able to be installed with ease for enthusiasts, whether it be a tablet or raspberry pi.        |
-### Constraints
+### Constraints - *CON*
 1. The system must be able to run on hardware ranging in power, and monetary cost. Cheap in cost, and power. Should be able to run on a raspberry pi
 2. Must follow open source model, must allow user to implement into their own applications or hardware.
 3. Must be able to run with, or without networking.
+
+### Concerns - *CNR*
+1. Establish overall system structures.
