@@ -17,5 +17,9 @@ use cases:
 - UC-1
 - UC-3
 
-# Step 3: Choose One or More Elements of the System to Refine 
-# Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
+## Step 3: Choose One or More Elements of the System to Refine 
+The elements that are being refined.
+## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
+| Design Decisions and Location   | Rationale and Assumptions |
+| -----------                     |               ----------- |
+|
