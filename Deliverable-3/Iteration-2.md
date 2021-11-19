@@ -31,7 +31,7 @@ and Define Interfaces
 | -----------                     |               ----------- |
 |Create only a Domain model       | We need to describe the entities that participate in the primary use case.|
 |Map the system use cases to domain objects| Objects must be identified for all the use cases|
-|Website Interface                | Will be able to interact with both the user and application created. It is able to display results from requests.
+
 
 ## Step 6: Sketch Views and Record Design Decisions
 | Element                         |            Responsibility |
@@ -41,5 +41,12 @@ and Define Interfaces
 | ItemController                  | Responsible for facilitating interactions with the items. |
 | UserService                     | Receives requests from the user |
 
+##### Figure 1: Domain Model
+![Management_inventory_Use_case drawio1](https://user-images.githubusercontent.com/73712369/142634792-56ffee30-0440-44a2-8615-75098b371f11.png)
+
+##### Figure 2: Domain objects
+![Management_inventory_Use_case drawio](https://user-images.githubusercontent.com/73712369/142634811-1d4594fc-f68d-424f-bbba-4b66bea240d5.png)
+
+## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievment of Design Purpose
 
 
