@@ -47,6 +47,9 @@ and Define Interfaces
 ##### Figure 2: Domain objects
 ![Management_inventory_Use_case drawio](https://user-images.githubusercontent.com/73712369/142634811-1d4594fc-f68d-424f-bbba-4b66bea240d5.png)
 
+##### Figure 3: Sequence Diagram
+![Inventory_Manger_Sequence_Diagram](https://user-images.githubusercontent.com/73712369/142639791-6cf6db3c-d93c-48e2-bd3b-69434cdee785.png)
+
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievment of Design Purpose
 
 
