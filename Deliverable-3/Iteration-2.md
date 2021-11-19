@@ -25,8 +25,7 @@ The elements that are being refined are modules that support core functionality.
 |Create a Domain model            | It is important to define conceptsand how they are related in the functionality of the application.
 | 
 
-## Step 5: Instantiate Architectural  Elements, Allocate  Responsibilities, 
-and Define Interfaces 
+## Step 5: Instantiate Architectural  Elements, Allocate  Responsibilities, and Define Interfaces 
 | Design Decisions and Location   | Rationale and Assumptions |
 | -----------                     |               ----------- |
 |Create only a Domain model       | We need to describe the entities that participate in the primary use case.|
