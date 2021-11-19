@@ -23,3 +23,4 @@ NetworkManager
 ![Sequence_Diagram_2](https://user-images.githubusercontent.com/73712369/142655139-24b530dd-48e1-46dd-a953-4a6f3e626684.png)
 
 ## Step 6: Sketch Views and Record Design Decisions 
+![Sequence_Diagram_2](https://user-images.githubusercontent.com/73712369/142656996-4d5ade17-0852-4dcb-aadf-13f32496b042.png)
