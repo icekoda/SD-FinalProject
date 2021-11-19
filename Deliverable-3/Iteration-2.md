@@ -40,6 +40,7 @@ and Define Interfaces
 | DatabaseConnector               | Responsible for interacting with the database, performing SQL queries, and passing information through|
 | ItemController                  | Responsible for facilitating interactions with the items. |
 | UserService                     | Receives requests from the user |
+| ViewController                  | Controls and update views. When user interacts with the system, it checks the view controller for any updates |
 
 ##### Figure 1: Domain Model
 ![Management_inventory_Use_case drawio1](https://user-images.githubusercontent.com/73712369/142634792-56ffee30-0440-44a2-8615-75098b371f11.png)
