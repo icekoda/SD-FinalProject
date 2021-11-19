@@ -3,7 +3,7 @@ Building on the fundamental structural decisions made in iteration 1 & 2, we can
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers 
 For this iteration the architect focuses on the QA-2 quality attribute scenario:
-The system must be available 24/7, and must make sure server is running before executing any queries.
+The system must be available 24/7, and must make sure server is running before executing any queries
 
 ## Step 3: Choose One or More Elements of the System to Refine
 We will refine component:
@@ -15,3 +15,11 @@ NetworkManager
 |Introduce the Detect Faults tactic | By implementing this element, the system can withstand network interruptions|
 
 ## Step 5: Instantiate Architectural Elements, Allocate Responsibilities, and Define Interfaces
+| Element                         | Responsibility             |
+| -----------                     |               ----------- |
+| NetworkManager                  | By implementing this element, the system can withstand network interruptions|
+| Heartbeat                       | Pings database, and application server, and returns a value depending on if it's available
+
+![Sequence_Diagram_2](https://user-images.githubusercontent.com/73712369/142655139-24b530dd-48e1-46dd-a953-4a6f3e626684.png)
+
+## Step 6: Sketch Views and Record Design Decisions 
