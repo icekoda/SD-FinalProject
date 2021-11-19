@@ -30,5 +30,5 @@ We must observe the architectural convern CNR-1, whilst also considering all oth
 
 | Design Decisions and Location   | Rationale |
 | ----------- | ----------- |
-|Store data on the main machine. If we have multiple machines, they can connect to the main machine, and any changes to the data are updated there.|This will ensure each machine is using data from the same location, and will ensure each machine is synchronized.|
+|Store data on the main machine. If we have multiple machines, they can connect to the main machine, and any changes to the data are updated there.|This will ensure each machine is using data from the same location, and will ensure each machine is synchronized|
 
