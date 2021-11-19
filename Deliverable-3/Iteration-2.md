@@ -3,7 +3,7 @@
 This section presents the results of the activities that are performed in each of the steps
 of ADD in the second iteration of the design process for the FCAPS system. We move from the generic and
 coarse-grained descriptions of functionality used in iteration 1 to more detailed
-decisions that will drive imple-mentation and hence the formation of development teams. 
+decisions that will drive imple-mentation and hence the formation of development teams 
 
 ## Goal
 
