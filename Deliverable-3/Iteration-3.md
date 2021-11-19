@@ -3,7 +3,7 @@ Building on the fundamental structural decisions made in iteration 1 & 2, we can
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers 
 For this iteration the architect focuses on the QA-2 quality attribute scenario:
-The system must be available 24/7, and must make sure server is running before executing any queries
+The system must be available 24/7, and must make sure server is running before executing any queries.
 
 ## Step 3: Choose One or More Elements of the System to Refine
 We will refine component:
