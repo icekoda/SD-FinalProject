@@ -18,8 +18,23 @@ use cases:
 - UC-3
 
 ## Step 3: Choose One or More Elements of the System to Refine 
-The elements that are being refined.
+The elements that are being refined are modules that support core functionality.
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 | Design Decisions and Location   | Rationale and Assumptions |
 | -----------                     |               ----------- |
-|
+|Create a Domain model            | It is important to define conceptsand how they are related in the functionality of the application.
+| 
+
+## Step 5
+
+
+## Step 6
+| Element                         |            Responsibility |
+| -----------                     |               ----------- |
+| DisplayList                     | When called, fetches list and displays it | 
+| DatabaseConnector               | Responsible for interacting with the database, performing SQL queries, and passing information through|
+| ItemController                  | Responsible for facilitating interactions with the items. |
+| UserService                     | Receives requests from the user |
+
+
+
