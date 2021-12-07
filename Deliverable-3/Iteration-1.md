@@ -15,7 +15,7 @@ We must keep in mind all the drivers that influence the general structure of the
 
 ## Step 3: Choose One or More Elements of the System to Refine
 We are going to refine the entire system.
-## Step 4
+## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers 
 | Design Decisions and Location   | Rationale |
 | ----------- | ----------- |
 |Logically structure the client part of the system as **Web Application** reference architecture|This reference architecture deals with an application that is interfaced directly through the web browser. This directly supports CON-1, because the user can acccess the application on multiple devices with the same interface. It can also support QA-6, as it is interoperable with any device capable of running a modern web browser.|
