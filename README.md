@@ -1,8 +1,8 @@
 # Software Design & Architecture Final Project - Fall 2021
 ### **Group #28**
-- Daniel LoPresti (100748818) *(aka. icekoda)*
-- Nabil Saleh (100745223)
-- Yousif Sarmad (100746887)
+- [Daniel LoPresti (100748818) *(aka. icekoda)*](https://github.com/icekoda)
+- [Nabil Saleh (100745223)](https://github.com/421360)
+- [Yousif Sarmad (100746887)](https://github.com/YousifSarmad)
 - Tomiwa Oladunjoye (100741743)
 
 ## Table of Contents
