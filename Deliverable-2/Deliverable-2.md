@@ -8,7 +8,8 @@ Our goal is to make it easier to manage the food that you own, enabling you to p
 
 ## System Requirements
 ### Use Case Model
-![Use Case](https://user-images.githubusercontent.com/73712369/140837370-446d2fef-1985-426d-8f49-492c80d60b8e.png)
+![Use Case](https://user-images.githubusercontent.com/73712369/144953639-8a3528d0-2aa4-4301-9be9-825bb8383cb9.png)
+
 
 These use cases can be described in the following table.
 
