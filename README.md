@@ -5,17 +5,17 @@
 - Yousif Sarmad (100746887)
 - Tomiwa Oladunjoye (100741743)
 
-## Submissions
-### Deliverable 1
-[Proposal](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-1/Proposal.pdf)
+## Table of Contents
+### [Deliverable 1](https://github.com/icekoda/SD-FinalProject/tree/main/Deliverable-1)
+- [Proposal](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-1/Proposal.pdf)
 
-### Deliverable 2
-[Progress Report](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md)
+### [Deliverable 2](https://github.com/icekoda/SD-FinalProject/tree/main/Deliverable-2)
+- [Progress Report](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md)
 
-### Deliverable 3
-[Iteration 1](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-1.md)
-[Iteration 2](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-2.md)
-[Iteration 3](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-3.md)
+### [Deliverable 3](https://github.com/icekoda/SD-FinalProject/tree/main/Deliverable-3)
+- [Iteration 1](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-1.md)
+- [Iteration 2](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-2.md)
+- [Iteration 3](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-3.md)
 
 ## Objectives
 The objective of this project is to demonstrate a methodological set of steps in the design of a software architecture for a set of requirements provided by your instructor. The expected design approach to take is the Attribute Driven Design (ADD) presented in some detail in the text book [1] and briefly overviewed here.  
