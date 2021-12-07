@@ -1,3 +1,5 @@
+Previous: [Iteration-2](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-2.md)
+
 # Iteration 3: Addressing  Quality Attribute Scenario Driver
 Building on the fundamental structural decisions made in iteration 1 & 2, we can now focus on the fulfilment of a quality attribute. This iteration focuses on just one quality attribute
 
@@ -22,4 +24,4 @@ We will refine component:
 | HashChecker                  | This will check the inputed hash with the hash stored on file, and return whether they match|
 
 ## Step 6: Sketch Views and Record Design Decisions 
-![Sequence_Diagram_2](https://user-images.githubusercontent.com/73712369/142656996-4d5ade17-0852-4dcb-aadf-13f32496b042.png)
+![Layewr_Inventory_ drawio_1](https://user-images.githubusercontent.com/73712369/144965391-6019ed2f-0996-4a67-88f6-c34d0a595f62.png)
