@@ -1,3 +1,6 @@
+Previous: [Iteration-1](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-1.md)
+
+Next: [Iteration-3](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-3/Iteration-3.md)
 # Iteration 2 - Identifying Structures to Support Primary Functionality 
 
 This section presents the results of the activities that are performed in each of the steps
