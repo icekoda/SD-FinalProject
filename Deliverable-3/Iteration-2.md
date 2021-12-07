@@ -15,7 +15,9 @@ The goal of this iteration is  to address the general architectural concern of i
 to support primary functionality. In the second iteration, the architect considers the system's primary
 use cases:
 - UC-1
+- UC-2
 - UC-3
+- UC-4
 
 ## Step 3: Choose One or More Elements of the System to Refine 
 The elements that are being refined are modules that support core functionality.
