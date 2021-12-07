@@ -40,21 +40,20 @@ The elements that are being refined are modules that support core functionality.
 ## Step 6: Sketch Views and Record Design Decisions
 | Element                         |            Responsibility |
 | -----------                     |               ----------- |
-| DisplayList                     | When called, fetches list and displays it | 
-| DatabaseConnector               | Responsible for interacting with the database, performing SQL queries, and passing information through|
-| ItemController                  | Responsible for facilitating interactions with the items. |
-| UserService                     | Receives requests from the user |
-| ViewController                  | Controls and update views. When user interacts with the system, it checks the view controller for any updates |
+| Account                   | Manages user accounts and their information | 
+| Client               | Responsible for interacting with the application server.|
+| IventoryManagerDBMS                  | Main application server. |
+| Inventory Database                   | Stores all data for each item |
+| Item               | Contains information about each item |
 
 ##### Figure 1: Domain Model
-![Management_inventory_Use_case drawio1](https://user-images.githubusercontent.com/73712369/142634792-56ffee30-0440-44a2-8615-75098b371f11.png)
+![Management_inventory_Use_case drawio1](https://user-images.githubusercontent.com/73712369/144962610-09817c08-8978-4346-97d1-1f8164f84acc.png)
 
-##### Figure 2: Domain objects
-![Management_inventory_Use_case drawio](https://user-images.githubusercontent.com/73712369/142634811-1d4594fc-f68d-424f-bbba-4b66bea240d5.png)
+##### Figure 2: Package Diagram
+![Management_inventory_Use_case drawio](https://user-images.githubusercontent.com/73712369/144962870-e0457e2a-4e10-4d2d-8b15-c9cc3e97b0a8.png)
+
 
 ##### Figure 3: Sequence Diagram For UC-1
-![Inventory_Manger_Sequence_Diagram](https://user-images.githubusercontent.com/73712369/142639791-6cf6db3c-d93c-48e2-bd3b-69434cdee785.png)
-
-## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievment of Design Purpose
+![Inventory_Manger_Sequence_Diagram](https://user-images.githubusercontent.com/73712369/144963889-43155bda-e77f-482c-9f8a-c8927d0e4bb1.png)
 
 
