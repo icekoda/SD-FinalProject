@@ -14,23 +14,26 @@ decisions that will drive imple-mentation and hence the formation of development
 The goal of this iteration is  to address the general architectural concern of identifying structures
 to support primary functionality. In the second iteration, the architect considers the system's primary
 use cases:
-- UC-1
-- UC-2
-- UC-3
-- UC-4
+| Use Case   | Description |
+| -----------                     |               ----------- |
+| UC-1 | Add, Remove, Update Items |
+| UC-2 | Login |
+| UC-3 | Register |
+| UC-4 | Search Inventory |
 
 ## Step 3: Choose One or More Elements of the System to Refine 
 The elements that are being refined are modules that support core functionality.
 ## Step 4: Choose One or More Design Concepts That Satisfy the Selected Drivers
 | Design Decisions and Location   | Rationale and Assumptions |
 | -----------                     |               ----------- |
-|Create a Domain model            | It is important to define conceptsand how they are related in the functionality of the application.
-| 
+|Create a Domain model            | It is important to define conceptsand how they are related in the functionality of the application.|
+| Create Domain Objects           | Each element of the application needs to be defined as a domain object |
+
 
 ## Step 5: Instantiate Architectural  Elements, Allocate  Responsibilities, and Define Interfaces 
 | Design Decisions and Location   | Rationale and Assumptions |
 | -----------                     |               ----------- |
-|Create only a Domain model       | We need to describe the entities that participate in the primary use case.|
+|Create only an initial Domain model       | We need to describe the entities that participate in the primary use case.|
 |Map the system use cases to domain objects| Objects must be identified for all the use cases|
 
 
