@@ -12,6 +12,9 @@
 ### [Deliverable 2](https://github.com/icekoda/SD-FinalProject/tree/main/Deliverable-2)
 Defines the use cases, quality attributes and constraint requirements, that are required before commencing the ADD process.
 - [Progress Report](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md)
+  - [Use Cases](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md#use-case-model)
+  - [Quality Attribute Scenarios](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md#quality-attribute-scenarios)
+  - [Constraints](https://github.com/icekoda/SD-FinalProject/blob/main/Deliverable-2/Deliverable-2.md#constraints---con)
 
 ### [Deliverable 3](https://github.com/icekoda/SD-FinalProject/tree/main/Deliverable-3)
 Follows the ADD design process. Iteration formats mimic the FCAPS case example in the text book.
